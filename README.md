@@ -38,3 +38,9 @@ The Excel file contains:
 - Analyze and **benchmark agent performance**.
 - Optimize **staffing based on call volume trends**.
 - Make **data-backed decisions** for service improvement.
+
+  ---
+
+  ## Preview
+
+![Dashboard Preview](https://github.com/07s-shashank/Call-Center-Analytics/blob/main/Dashboard.jpg)
